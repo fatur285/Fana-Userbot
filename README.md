@@ -1,13 +1,13 @@
-<h1 align="center">Fanda-Userbot</h1>
+<h1 align="center">Fana-Project</h1>
 
 <p align="center">
   <img src="https://telegra.ph/file/10c4e299d498c9d54e31c.jpg">
 </p>
 
 <p align="center">
-    <a href="https://github.com/DIORrios285/Fanda-Userbot/commits/Fanda-Userbot"><img 
+    <a href="https://github.com/fatur285/Fana-Project/commits/Fana-Project"><img 
 src="https://img.shields.io/github/last-commit/DIORrios285/Fanda-Userbot?color=ff0000&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/DIORrios285/Fanda-Userbot"> <img 
+    <a href="https://github.com/fatur285/Fana-Projectt"> <img 
 src="https://img.shields.io/github/repo-size/DIORrios285/Fanda-Userbot?logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Telethon/"><img 
 src="https://img.shields.io/pypi/v/telethon?color=important&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
@@ -31,7 +31,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 
 <h2 align="left">Metode Deploy</h2>
 
-<p align="center"><a href="https://github.com/DIORrios285/Fanda-Userbot"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
+<p align="center"><a href="https://github.com/fatur285/Fana-Project"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
 <h3 align="center">With Heroku Bot</h3>
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=RElPUnJpb3MyODUvRmFuZGEtVXNlcmJvdCBGYW5kYS1Vc2VyYm90"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="215"/</a> </p>
 
@@ -44,7 +44,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 <br>
 Makasih banyak banget nih ya buat para suhu² dibawah:
 
-*   [Fatur](https://github.com/DIORrios285/Fanda-Userbot) Fanda-Userbot
+*   [Fatur](https://github.com/fatur285/Fana-Project) Fana-Project
 *   [Risman](https://github.com/mrismanaziz/Man-Userbot) Suhu-Userbot
 *   [Kyy](https://github.com/muhammadrizky16/Kyy-Userbot) Kyy-Userbot
 *   [Skyzu](https://github.com/Skyzu/skyzu-userbot) Skyzu-userbot
